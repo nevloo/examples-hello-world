@@ -1,4 +1,4 @@
-# Deno Examples: Hello, World!
+# no Deno named the ways
 
 Simply serving a single file over HTTP
 
